@@ -1,5 +1,7 @@
 # framework-learning
 
+thankyou guang19
+
 以下是我在学习计算机相关知识的过程中整理的一些资料，部分参考了网上一些大神的文章。
 我把它们都做成Markdown的文章供各位同学参考，其中一部分我也以XMind的方式来进行梳理总结。
 
